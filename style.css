@@ -744,12 +744,6 @@ section:nth-child(odd) .animate.scroll,
     html {
         font-size: 50%;
     }
-    .home {
-        background: url(about.png) no-repeat rgba(0, 0, 0, 0.3);
-        background-position: center;
-        background-size: cover;
-        background-blend-mode: darken;
-    }
     .home-content h1 {
         display: flex;
         flex-direction: column;
